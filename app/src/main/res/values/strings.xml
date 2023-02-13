@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CargoLink</string>
+    <string name="pick_file">Pick Information File: </string>
+    <string name="select_file">Select File </string>
+    <string name="error_loading_file">Error loading file</string>
+    <string name="placeholder">Placeholder</string>
+    <string name="dismiss">Dismiss</string>
+</resources>
