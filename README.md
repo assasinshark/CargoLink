@@ -3,6 +3,9 @@ iTijuana Exerc
 
 This is an example exercise app for android. To avoid giving more details or violating copyright rules will only explain how to build the app.
 
+Also, most of the design decisions, assumptions and method descriptions are inside the source files, especially in the 
+ExDeepSearchScheduleBuilder.kt and ExerciseSuitabilityScoreCalculator.kt files.
+
 ![test](https://user-images.githubusercontent.com/4595522/218427532-a3ced03c-0d62-4aa1-86e2-33b5cd630289.gif)
 
 
