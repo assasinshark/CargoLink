@@ -3,6 +3,9 @@ iTijuana Exerc
 
 This is an example exercise app for android. To avoid giving more details or violating copyright rules will only explain how to build the app.
 
+![test](https://user-images.githubusercontent.com/4595522/218427532-a3ced03c-0d62-4aa1-86e2-33b5cd630289.gif)
+
+
 In order to build the app you can create a new android app on android studio using the "Empty Activity" template and kotlin as main language, 
 this will be our base app where we will insert our files. If you want to match the original name, the name 
 of the app is "CargoLink" and the package name is: "com.android.cargolink".
@@ -80,9 +83,10 @@ some other that we will not use this time.
 
 After you have matched these two files "sync" your project with gradle. And that's it!, you should be able to run the project succesfully now!
 
-Just one more thing, you will need to copy the "\CargoLink-master\data.json" and/or the "\CargoLink-master\data.json" file to the emulator in 
+Just one more thing, you will need to copy the "\CargoLink-master\data.json" and/or the "\CargoLink-master\data_short.json" file to the emulator in 
 which you run the app, you can do so using the file explorer and draggin and dropping this file to it: <img width="295" alt="image" src="https://user-images.githubusercontent.com/4595522/218422705-ec7229eb-a81b-4bde-8e69-95a106697881.png">
- 
+
+  I recommend using the "\CargoLink-master\data_short.json" as the app will delay a lot to process the information with the original "data.json" file
  
 As an extra step you can copy the test clases located in "CargoLink-master\app\src\test\java\com\android\cargolink\util" and copy/move them to 
 the project and you should have something like this: <img width="266" alt="image" src="https://user-images.githubusercontent.com/4595522/218423124-40b49d79-9243-459d-9243-fee323ed9f16.png">
